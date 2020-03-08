@@ -3,7 +3,7 @@
 Aplicação desenvolvida usando React.js
 
 # Acesso
-Esta aplicação foi hospedada usando o Heroku e pode acessada em https://store-front-react.herokuapp.com/
+Esta aplicação foi hospedada usando o Heroku e pode acessada em https://store-frontend-react.herokuapp.com
 
 ## Executando em um servidor local
 # Pré-requisitos
