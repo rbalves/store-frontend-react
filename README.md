@@ -1,5 +1,5 @@
 
-# Store APP React
+# Store App React
 Aplicação desenvolvida usando React.js
 
 # Acesso
