@@ -1,0 +1,51 @@
+.product-info {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+
+}
+
+.product-info h1 {
+    font-size: 32px;
+}
+
+.product-info p {
+    color: #666;
+    line-height: 24px;
+    margin-top: 5px;
+}
+
+.product-info input {
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    border: 1px solid #0E314A;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+.product-info hr {
+    margin: 5px auto 5px;
+}
+
+.product-info button {
+    color: white;
+    padding: 10px 20px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.product-info .btn-success {
+    background-color: #4CAF50;
+}
+
+.product-info .btn-danger {
+    background-color: #d9534f;
+    margin-left: 5px;
+}
